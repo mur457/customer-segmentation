@@ -42,7 +42,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 
 ## Usage
-To run the project, execute the Jupyter notebook file customer_segmentation.ipynb in a Jupyter environment. It contains step-by-step code snippets along with explanations for performing data analysis, clustering, and visualization.
+To run the project, execute the google colab notebook file customer_segmentation.ipynb in a google colab environment. It contains step-by-step code snippets along with explanations for performing data analysis, clustering, and visualization.
 
 ### Running the Notebook
 You can open and run the notebook using:
